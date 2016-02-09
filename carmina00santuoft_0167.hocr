@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./carmina00santuoft_0167.png"; bbox 0 0 2912 4368; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 484 1384 1104 1717">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 484 1384 1104 1717">
+     <span class='ocr_line' id='line_1_1' title="bbox 541 1384 1104 1430; baseline -0.018 -1"><span class='ocrx_word' id='word_1_1' title='bbox 541 1393 582 1429; x_wconf 60' lang='grc' dir='ltr'>[Ξῖ</span> <span class='ocrx_word' id='word_1_2' title='bbox 617 1401 683 1426; x_wconf 78' lang='lat' dir='ltr'>um</span> <span class='ocrx_word' id='word_1_3' title='bbox 722 1398 805 1425; x_wconf 75' lang='lat' dir='ltr'>cura</span> <span class='ocrx_word' id='word_1_4' title='bbox 829 1414 841 1430; x_wconf 85' lang='lat'>‚</span> <span class='ocrx_word' id='word_1_5' title='bbox 873 1394 963 1423; x_wconf 70' lang='lat' dir='ltr'>unus</span> <span class='ocrx_word' id='word_1_6' title='bbox 988 1384 1104 1424; x_wconf 55' lang='lat' dir='ltr'>“O</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 485 1447 1070 1507; baseline -0.015 -7"><span class='ocrx_word' id='word_1_7' title='bbox 485 1464 641 1503; x_wconf 72' lang='lat' dir='ltr'>Timore</span> <span class='ocrx_word' id='word_1_8' title='bbox 672 1458 750 1498; x_wconf 74' lang='lat' dir='ltr'>veri</span> <span class='ocrx_word' id='word_1_9' title='bbox 774 1456 900 1507; x_wconf 55' lang='lat' dir='ltr'>pedus</span> <span class='ocrx_word' id='word_1_10' title='bbox 931 1447 1070 1494; x_wconf 54' lang='grc' dir='ltr'>Μ’</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 537 1520 1024 1576; baseline -0.008 -8"><span class='ocrx_word' id='word_1_11' title='bbox 537 1529 716 1576; x_wconf 70' lang='grc' dir='ltr'>Κε;ἐ;ῳε</span> <span class='ocrx_word' id='word_1_12' title='bbox 748 1534 875 1564; x_wconf 73' lang='lat' dir='ltr'>amore</span> <span class='ocrx_word' id='word_1_13' title='bbox 904 1520 1024 1576; x_wconf 65' lang='grc' dir='ltr'>ῌ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 484 1588 990 1647; baseline -0.022 -7"><span class='ocrx_word' id='word_1_14' title='bbox 484 1600 613 1640; x_wconf 74' lang='lat' dir='ltr'>Aetate</span> <span class='ocrx_word' id='word_1_15' title='bbox 645 1596 786 1647; x_wconf 59' lang='lat' dir='ltr'>primi.</span> <span class='ocrx_word' id='word_1_16' title='bbox 809 1588 990 1644; x_wconf 50' lang='lat' dir='ltr'>qun&amp;</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 539 1658 946 1717; baseline -0.007 -10"><span class='ocrx_word' id='word_1_17' title='bbox 539 1666 712 1707; x_wconf 66' lang='lat' dir='ltr'>Tinc‘tum</span> <span class='ocrx_word' id='word_1_18' title='bbox 739 1658 946 1717; x_wconf 50' lang='lat' dir='ltr'>(ww</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 722 2169 3914">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 722 2169 3914">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 722 2169 3914; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 0 722 2169 3914; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

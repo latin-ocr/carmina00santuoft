@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./carmina00santuoft_0141.png"; bbox 0 0 1527 2807; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 58 262 1223 527">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 58 262 1223 527">
+     <span class='ocr_line' id='line_1_1' title="bbox 186 262 1118 344; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 186 262 1118 344; x_wconf 52' lang='lat' dir='ltr'>&amp;cffssjaesffcss‘</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 58 448 1223 527; baseline 0 -4"><span class='ocrx_word' id='word_1_2' title='bbox 58 448 291 524; x_wconf 60' lang='lat'>52⁵0</span> <span class='ocrx_word' id='word_1_3' title='bbox 393 453 1223 527; x_wconf 61' lang='lat' dir='ltr'>&amp;ffseffcgi</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 140 1224 1122 1279">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 140 1224 1122 1279">
+     <span class='ocr_line' id='line_1_3' title="bbox 140 1224 1122 1279; baseline -0.003 -1"><span class='ocrx_word' id='word_1_4' title='bbox 140 1224 1122 1279; x_wconf 69' lang='lat' dir='ltr'><strong>FASC1chv31v.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 56 2002 1214 2172">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 56 2002 1214 2172">
+     <span class='ocr_line' id='line_1_4' title="bbox 188 2002 1088 2045; baseline -0.001 -4"><span class='ocrx_word' id='word_1_5' title='bbox 188 2003 548 2045; x_wconf 85' lang='lat' dir='ltr'><em>LVGDVNI</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 593 2002 1088 2045; x_wconf 75' lang='lat' dir='ltr'><em>BATAVORVM</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 56 2104 1214 2172; baseline -0.003 -16"><span class='ocrx_word' id='word_1_7' title='bbox 56 2105 201 2172; x_wconf 81' lang='lat' dir='ltr'>Apud</span> <span class='ocrx_word' id='word_1_8' title='bbox 325 2111 378 2159; x_wconf 89' lang='lat' dir='ltr'>c.</span> <span class='ocrx_word' id='word_1_9' title='bbox 509 2110 562 2158; x_wconf 88' lang='lat' dir='ltr'>F.</span> <span class='ocrx_word' id='word_1_10' title='bbox 704 2104 1214 2157; x_wconf 86' lang='lat' dir='ltr'><strong>KOENIG</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 283 2239 988 2276">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 283 2239 988 2276">
+     <span class='ocr_line' id='line_1_6' title="bbox 283 2239 988 2276; baseline -0.007 0"><span class='ocrx_word' id='word_1_11' title='bbox 283 2239 988 2276; x_wconf 70' lang='lat' dir='ltr'>CIOIDCCLXXXIIII.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
